@@ -1,0 +1,104 @@
+    712 Acanthamoeba castellanii
+     13 Ancylostoma ceylanicum
+    220 Ancylostoma duodenale
+     13 Angiostrongylus costaricensis
+     10 Anisakis simplex
+   1165 Aphanomyces astaci
+     29 Ascaris suum
+     27 Babesia bigemina
+     28 Babesia bovis T2Bo
+     38 Babesia microti strain RI
+     29 Babesia ovata
+     35 Babesia sp. Xinjiang
+     96 Besnoitia besnoiti
+    222 Blastocystis hominis
+     21 Brugia malayi
+     24 Chromera velia
+     23 Clonorchis sinensis
+     22 Cryptosporidium andersoni
+     15 Cryptosporidium hominis TU502
+     32 Cryptosporidium meleagridis
+     23 Cryptosporidium muris RN66
+     20 Cryptosporidium parvum Iowa II
+     23 Cryptosporidium tyzzeri
+     16 Cryptosporidium ubiquitum
+     76 Cyclospora cayetanensis
+     89 Cystoisospora suis
+     11 Dracunculus medinensis
+      6 Echinococcus granulosus
+      3 Echinococcus multilocularis
+     10 Echinostoma caproni
+    158 Entamoeba dispar SAW760
+    200 Entamoeba histolytica HM-1:IMSS
+    309 Entamoeba invadens IP1
+     67 Entamoeba nuttalli P19
+     16 Enterobius vermicularis
+     21 Fasciola hepatica
+     87 Gregarina niphandrodes
+     40 Haematobia irritans
+     97 Hammondia hammondi
+      8 Hymenolepis diminuta
+    123 Leishmania braziliensis MHOM/BR/75/M2904
+    131 Leishmania donovani
+    180 Leishmania enriettii
+    133 Leishmania guyanensis
+    132 Leishmania infantum JPCM5
+    139 Leishmania major strain Friedlin
+    127 Leishmania martiniquensis
+    142 Leishmania mexicana MHOM/GT/2001/U1103
+    142 Leishmania orientalis
+    128 Leishmania tarentolae
+     66 Lepeophtheirus salmonis
+    262 Leptomonas pyrrhocoris
+     10 Loa loa
+    455 Naegleria fowleri
+     14 Necator americanus
+     91 Neospora caninum Liverpool
+     54 Opisthorchis viverrini
+    333 Perkinsus marinus ATCC 50983
+     47 Plasmodium berghei ANKA
+     57 Plasmodium chabaudi chabaudi
+     57 Plasmodium coatneyi
+     52 Plasmodium cynomolgi strain B
+     59 Plasmodium falciparum 3D7
+     53 Plasmodium fragile
+     55 Plasmodium gallinaceum
+     56 Plasmodium inui San Antonio 1
+     47 Plasmodium knowlesi strain H
+     19 Plasmodium malariae
+     52 Plasmodium ovale wallikeri
+     58 Plasmodium reichenowi
+     55 Plasmodium relictum
+     51 Plasmodium vinckei petteri
+     50 Plasmodium vivax
+     21 Plasmodium yoelii yoelii
+    184 Porcisia hertigi
+    390 Pythium insidiosum
+      3 Rodentolepis nana
+      8 Schistosoma haematobium
+      3 Schistosoma japonicum
+      5 Schistosoma mansoni
+      8 Taenia asiatica
+     33 Theileria annulata
+     82 Theileria equi strain WA
+     30 Theileria orientalis strain Shintoku
+     38 Theileria parva strain Muguga
+     30 Toxocara canis
+     96 Toxoplasma gondii ME49
+     14 Trichinella britovi
+     14 Trichinella murrelli
+     17 Trichinella nelsoni
+     26 Trichinella papuae
+     14 Trichinella patagoniensis
+     15 Trichinella pseudospiralis
+     14 Trichinella spiralis
+     17 Trichinella zimbabwensis
+   1323 Trichomonas vaginalis G3
+     14 Trichuris trichiura
+    578 Tritrichomonas foetus
+     72 Trypanosoma brucei brucei TREU927
+     50 Trypanosoma cruzi
+    106 Trypanosoma grayi
+    138 Trypanosoma theileri
+     12 Varroa destructor
+      4 Wuchereria bancrofti

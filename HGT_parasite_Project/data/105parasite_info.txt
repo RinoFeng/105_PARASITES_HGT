@@ -1,0 +1,105 @@
+Acanthamoeba castellanii	GCA_000193105.1_Acas_2.0_genomic.fna	1257118
+Ancylostoma ceylanicum	GCA_000402015.1_A_ceylanicum1.3.ec.cg.pg_genomic.fna	53326
+Ancylostoma duodenale	GCA_000816745.1_A_duodenale_2.2.ec.cg.pg_genomic.fna	51022
+Angiostrongylus costaricensis	GCA_900624975.1_A_costaricensis_Costa_Rica_0011_upd_genomic.fna	334426
+Anisakis simplex	GCA_900576815.1_ASM90057681v1_genomic.fna	1048626
+Aphanomyces astaci	GCA_000520075.1_Apha_asta_APO3_V1_genomic.fna	112090
+Ascaris suum	GCA_000187025.3_ASM18702v3_genomic.fna	6253
+Babesia bigemina	GCA_000723445.1_BBBOND_0001_genomic.fna	5866
+Babesia bovis T2Bo	GCA_000165395.2_ASM16539v2_genomic.fna	484906
+Babesia microti strain RI	GCA_000691945.2_ASM69194v2_genomic.fna	1133968
+Babesia ovata	GCA_002897235.1_Bovata_7.1_genomic.fna	1410466
+Babesia sp. Xinjiang	GCA_002095265.1_B_xinjiang1.0_genomic.fna	191764
+Besnoitia besnoiti	GCA_002563875.1_Bbes1.0_genomic.fna	94643
+Blastocystis hominis	GCA_000151665.1_ASM15166v1_genomic.fna	12968
+Brugia malayi	GCA_000002995.5_B_malayi-4.0_genomic.fna	6279
+Chromera velia	GCA_000585135.1_J2_genomic.fna	505693
+Clonorchis sinensis	GCA_000236345.1_C_sinensis-2.0_genomic.fna	79923
+Cryptosporidium andersoni	GCA_001835725.1_ASM183572v1_genomic.fna	117008
+Cryptosporidium hominis TU502	GCA_000006425.2_ASM642v2_genomic.fna	353151
+Cryptosporidium meleagridis	GCA_001593445.1_CryMelUKMEL1-1.0_genomic.fna	93969
+Cryptosporidium muris RN66	GCA_000006515.1_JCVI_cmg_v1.0_genomic.fna	441375
+Cryptosporidium parvum Iowa II	GCA_000165345.1_ASM16534v1_genomic.fna	353152
+Cryptosporidium tyzzeri	GCA_007210665.1_Ctyz_UGA_55_genomic.fna	756076
+Cryptosporidium ubiquitum	GCA_001835705.1_ASM183570v1_genomic.fna	857276
+Cyclospora cayetanensis	GCA_000769155.2_ASM76915v2_genomic.fna	88456
+Cystoisospora suis	GCA_002600585.1_ASM260058v1_genomic.fna	483139
+Dracunculus medinensis	GCA_900625125.1_D_medinensis_Ghana_0011_upd_genomic.fna	318479
+Echinococcus granulosus	GCA_000524195.1_ASM52419v1_genomic.fna	1537665
+Echinococcus multilocularis	GCA_000469725.3_EMULTI002_genomic.fna	6211
+Echinostoma caproni	GCA_900618425.1_E_caproni_Egypt_0011_upd_genomic.fna	27848
+Entamoeba dispar SAW760	GCA_000209125.2_JCVI_EDISG_1.0_genomic.fna	370354
+Entamoeba histolytica HM-1:IMSS	GCA_000208925.2_JCVI_ESG2_1.0_genomic.fna	294381
+Entamoeba invadens IP1	GCA_000330505.1_EIA2_v2_genomic.fna	370355
+Entamoeba nuttalli P19	GCA_000257125.1_ENU1_v1_genomic.fna	1076696
+Enterobius vermicularis	GCA_900576705.1_E_vermicularis_Canary_Islands_upd_genomic.fna	51028
+Fasciola hepatica	GCA_000824725.2_Fh_reapr10kb_genomic.fna	2608784
+Gregarina niphandrodes	GCA_000223845.4_GNI3_genomic.fna	110365
+Haematobia irritans	GCA_003123925.1_Hi_v1.0_genomic.fna	34678
+Hammondia hammondi	GCA_000258005.2_HHA1_v02_genomic.fna	99158
+Hymenolepis diminuta	GCA_900618445.1_H_diminuta_Denmark_0011_upd_genomic.fna	6216
+Leishmania braziliensis MHOM/BR/75/M2904	GCA_000002845.2_ASM284v2_genomic.fna	420245
+Leishmania donovani	GCA_000227135.2_ASM22713v2_genomic.fna	1294179
+Leishmania enriettii	GCA_000410755.2_Leishmania_enrietti_LEM3045-1.0.2_genomic.fna	5663
+Leishmania guyanensis	GCA_003664525.1_ASM366452v1_genomic.fna	1758073
+Leishmania infantum JPCM5	GCA_000002875.2_ASM287v2_genomic.fna	435258
+Leishmania major strain Friedlin	GCA_000002725.2_ASM272v2_genomic.fna	347515
+Leishmania martiniquensis	GCA_017916325.1_LU_Lmar_1.0_genomic.fna	1580590
+Leishmania mexicana MHOM/GT/2001/U1103	GCA_000234665.4_ASM23466v4_genomic.fna	929439
+Leishmania orientalis	GCA_017916335.1_LU_Lori_1.0_genomic.fna	2249476
+Leishmania tarentolae	GCA_009731335.1_Lta_assembly01_genomic.fna	5689
+Lepeophtheirus salmonis	GCA_000181255.2_ASM18125v2_genomic.fna	1504303
+Leptomonas pyrrhocoris	GCA_001293395.1_ASM129339v1_genomic.fna	157538
+Loa loa	GCA_000183805.3_Loa_loa_V3.1_genomic.fna	7209
+Naegleria fowleri	GCA_000499105.1_Naegleria_fowleri_1.0_genomic.fna	5763
+Necator americanus	GCA_000507365.1_N_americanus_v1_genomic.fna	51031
+Neospora caninum Liverpool	GCA_000208865.2_ASM20886v2_genomic.fna	572307
+Opisthorchis viverrini	GCA_000715545.1_OpiViv1.0_genomic.fna	6198
+Perkinsus marinus ATCC 50983	GCA_000006405.1_JCVI_PMG_1.0_genomic.fna	423536
+Plasmodium berghei ANKA	GCA_900002375.2_GCA_900002375_genomic.fna	5823
+Plasmodium chabaudi chabaudi	GCA_900002335.2_GCA_900002335_genomic.fna	31271
+Plasmodium coatneyi	GCA_000725905.1_ASM72590v1_genomic.fna	208452
+Plasmodium cynomolgi strain B	GCA_000321355.1_PcynB_1.0_genomic.fna	1120755
+Plasmodium falciparum 3D7	GCA_000002765.3_GCA_000002765_genomic.fna	36329
+Plasmodium fragile	GCA_000956335.1_Plas_frag_nilgiri_V1_genomic.fna	5857
+Plasmodium gallinaceum	GCA_900005855.1_PGAL8A_genomic.fna	5849
+Plasmodium inui San Antonio 1	GCA_000524495.1_Plas_inui_San_Antonio_1_V1_genomic.fna	1237626
+Plasmodium knowlesi strain H	GCA_000006355.3_GCA_000006355.2_genomic.fna	5851
+Plasmodium malariae	GCA_900088575.1_Pmal_genomic.fna	5858
+Plasmodium ovale wallikeri	GCA_900088485.1_Pow1_genomic.fna	864142
+Plasmodium reichenowi	GCA_000723685.1_PREICH001_genomic.fna	5854
+Plasmodium relictum	GCA_900005765.1_PRELSG_genomic.fna	85471
+Plasmodium vinckei petteri	GCA_000524515.1_Plas_vinc_pett_CR_V1_genomic.fna	138298
+Plasmodium vivax	GCA_000002415.2_ASM241v2_genomic.fna	126793
+Plasmodium yoelii yoelii	GCA_000003085.2_ASM308v2_genomic.fna	73239
+Porcisia hertigi	GCA_017918235.1_LU_Pher_1.0_genomic.fna	2761500
+Pythium insidiosum	GCA_000764265.1_ASM76426v1_genomic.fna	114742
+Rodentolepis nana	GCA_900617975.1_H_nana_Japan_0011_upd_genomic.fna	102285
+Schistosoma haematobium	GCA_000699445.3_UoM_Shae.V3_genomic.fna	174752
+Schistosoma japonicum	GCA_000151775.1_ASM15177v1_genomic.fna	6182
+Schistosoma mansoni	GCA_000237925.5_SM_V9_genomic.fna	212216
+Taenia asiatica	GCA_001693035.2_Taenia_asiatica_TASYD01_v1_genomic.fna	60517
+Theileria annulata	GCA_000003225.1_ASM322v1_genomic.fna	5874
+Theileria equi strain WA	GCA_000342415.1_JCVI-bewag-v1.1_genomic.fna	1537102
+Theileria orientalis strain Shintoku	GCA_000740895.1_ASM74089v1_genomic.fna	869250
+Theileria parva strain Muguga	GCA_000165365.1_ASM16536v1_genomic.fna	333668
+Toxocara canis	GCA_000803305.1_Toxocara_canis_adult_r1.0_genomic.fna	6265
+Toxoplasma gondii ME49	GCA_000006565.2_TGA4_genomic.fna	508771
+Trichinella britovi	GCA_001447585.1_T3_ISS120_r1.0_genomic.fna	45882
+Trichinella murrelli	GCA_001447425.1_T5_ISS417_r1.0_genomic.fna	144512
+Trichinella nelsoni	GCA_001447455.1_T7_ISS37_r1.0_genomic.fna	6336
+Trichinella papuae	GCA_001447755.1_T10_ISS1980_r1.0_genomic.fna	268474
+Trichinella patagoniensis	GCA_001447655.1_T12_ISS2496_r1.0_genomic.fna	990121
+Trichinella pseudospiralis	GCA_001447445.1_T4_ISS141_r1.0_genomic.fna	6337
+Trichinella spiralis	GCA_000181795.3_ASM18179v3_genomic.fna	6334
+Trichinella zimbabwensis	GCA_001447665.1_T11_ISS1029_r1.0_genomic.fna	268475
+Trichomonas vaginalis G3	GCA_000002825.3_ASM282v3_genomic.fna	412133
+Trichuris trichiura	GCA_000613005.1_TTRE2.1_genomic.fna	36087
+Tritrichomonas foetus	GCA_001839685.1_ASM183968v1_genomic.fna	1144522
+Trypanosoma brucei brucei TREU927	GCA_000002445.1_ASM244v1_genomic.fna	185431
+Trypanosoma cruzi	GCA_000188675.2_Tc_SX10_v2.0_genomic.fna	353153
+Trypanosoma grayi	GCA_000691245.1_Tgr_V1_genomic.fna	71804
+Trypanosoma rangeli SC58	GCA_000492115.1_T_rangeli_SC58v1_genomic.fna	429131
+Trypanosoma theileri	GCA_002087225.1_Tth_v3_genomic.fna	67003
+Varroa destructor	GCA_000181155.2_Vdes2.0_genomic.fna	109461
+Wuchereria bancrofti	GCA_000180755.1_Wuchereria_bancrofti_V1_genomic.fna	6293

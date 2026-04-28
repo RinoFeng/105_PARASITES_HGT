@@ -1,0 +1,108 @@
+#!/bin/bash
+#===============================================================================
+# Script: step3_filter_egt_and_contigs.sh
+# Description: Final quality control pipeline. 
+#              Phase 1: Removes Endosymbiotic Gene Transfers (EGTs).
+#              Phase 2: Filters out potential assembly contaminations based on 
+#                       contig lengths and slice voting.
+#===============================================================================
+
+set -e
+set -u
+
+# ==============================================================================
+# 0. Configuration and Environment Setup
+# ==============================================================================
+BASE_DIR=$(cd "$(dirname "$0")/.."; pwd)
+SRC_DIR="${BASE_DIR}/scripts"
+DATA_DIR="${BASE_DIR}/data"
+RESULT_DIR="${BASE_DIR}/results/article_summary"
+
+# Input files (Generated from previous steps or prepared by the user)
+TAXON_LINEAGE="${DATA_DIR}/config/105_parasite_taxonomy_info.txt"
+CONTIG_LENGTHS="${DATA_DIR}/genomes/all_contig_lengths.txt"
+SLICE_INFO="${DATA_DIR}/align/nucl_align/105_parasite.1500bp_slices.nucl.HGT_verify.out"
+PROT_BLAST_MAP="${DATA_DIR}/align/protein_align/all_prot.hgt2genome.blast.out"
+
+# Raw summary inputs
+RAW_PROT_CSV="${RESULT_DIR}/all_HGT.prot.info.utf8.csv"
+RAW_NUCL_CSV="${RESULT_DIR}/all_HGT.nucl.info.utf8.csv"
+
+# Python Scripts
+FILTER_EGT_PY="${SRC_DIR}/utils/filter_egt.py"
+FILTER_CONTIG_PROT_PY="${SRC_DIR}/filtering/filter_by_slices_and_length.prot.py"
+FILTER_CONTIG_NUCL_PY="${SRC_DIR}/filtering/filter_by_slices_and_length.nucl.py"
+
+# Output directories
+EGT_OUT_DIR="${RESULT_DIR}/Remove_EGT"
+CONTIG_OUT_DIR="${RESULT_DIR}/rm_wrong_contig"
+
+mkdir -p "${EGT_OUT_DIR}" "${CONTIG_OUT_DIR}"
+
+echo "======================================================================"
+echo "[INFO] Starting Final Quality Control (EGT & Contamination Removal)"
+echo "======================================================================"
+
+# ==============================================================================
+# Phase 1: Remove Endosymbiotic Gene Transfers (EGT)
+# ==============================================================================
+echo "[INFO] Phase 1: Removing EGTs from candidate lists..."
+
+# 1.1 Remove EGT from Protein results
+if [ -f "$RAW_PROT_CSV" ] && [ -f "$TAXON_LINEAGE" ]; then
+    echo ">> Filtering Protein EGTs..."
+    python "${FILTER_EGT_PY}" -i "$RAW_PROT_CSV" -t "$TAXON_LINEAGE" \
+        -o "${EGT_OUT_DIR}/all_HGT.prot.rmEGT.txt"
+else
+    echo "[WARNING] Missing Protein CSV or Taxonomy file. Skipping Protein EGT removal."
+fi
+
+# 1.2 Remove EGT from Nucleotide results
+if [ -f "$RAW_NUCL_CSV" ] && [ -f "$TAXON_LINEAGE" ]; then
+    echo ">> Filtering Nucleotide EGTs..."
+    python "${FILTER_EGT_PY}" -i "$RAW_NUCL_CSV" -t "$TAXON_LINEAGE" \
+        -o "${EGT_OUT_DIR}/all_HGT.nucl.rmEGT.txt"
+else
+    echo "[WARNING] Missing Nucleotide CSV or Taxonomy file. Skipping Nucleotide EGT removal."
+fi
+
+
+# ==============================================================================
+# Phase 2: Remove Wrong/Contaminated Contigs
+# ==============================================================================
+echo "[INFO] Phase 2: Removing potentially contaminated contigs (Min Length: 10kb)..."
+
+PROT_CLEAN_TXT="${EGT_OUT_DIR}/all_HGT.prot.rmEGT.clean.txt"
+NUCL_CLEAN_TXT="${EGT_OUT_DIR}/all_HGT.nucl.rmEGT.clean.txt"
+
+# 2.1 Filter Protein Contigs
+if [ -f "$PROT_CLEAN_TXT" ] && [ -f "$SLICE_INFO" ] && [ -f "$CONTIG_LENGTHS" ]; then
+    echo ">> Running Contig Filtration for Protein candidates..."
+    python "${FILTER_CONTIG_PROT_PY}" \
+        --slice_info "$SLICE_INFO" \
+        --hgt_list "$PROT_CLEAN_TXT" \
+        --lengths "$CONTIG_LENGTHS" \
+        --blast_map "$PROT_BLAST_MAP" \
+        --min_len 10000 \
+        -o "${CONTIG_OUT_DIR}/final_prot_10k"
+else
+    echo "[WARNING] Missing required files for Protein contig filtration. Skipping."
+fi
+
+# 2.2 Filter Nucleotide Contigs
+if [ -f "$NUCL_CLEAN_TXT" ] && [ -f "$SLICE_INFO" ]; then
+    echo ">> Running Contig Filtration for Nucleotide candidates..."
+    python "${FILTER_CONTIG_NUCL_PY}" \
+        --slice_info "$SLICE_INFO" \
+        --hgt_list "$NUCL_CLEAN_TXT" \
+        --lengths "$CONTIG_LENGTHS" \
+        --min_len 10000 \
+        -o "${CONTIG_OUT_DIR}/final_nucl_10k"
+else
+    echo "[WARNING] Missing required files for Nucleotide contig filtration. Skipping."
+fi
+
+echo "======================================================================"
+echo "[SUCCESS] Quality Control pipeline finished!"
+echo "Final high-confidence HGT candidates are saved in: ${CONTIG_OUT_DIR}"
+echo "======================================================================"
