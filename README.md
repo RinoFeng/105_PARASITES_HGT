@@ -1,6 +1,6 @@
 # Identification of Horizontal Gene Transfer (HGT) in Parasitic Genomes
 
-## Manuscript-associated analyses (2026 revision)
+## Manuscript-associated analyses 
 
 Updated analysis materials are available in [revision_2026](revision_2026/README.md), including
 an analysis-to-manuscript index, selected source tables and two tested reproduction examples.
