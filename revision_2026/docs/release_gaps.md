@@ -23,8 +23,9 @@ manuscript. A23 is a recent deduplication sensitivity analysis not yet incorpora
 8. **Local-genome illustrations:** the final independent generation entry for the Plasmodium microsynteny
 illustration is not located in this preparation. The PCR table is an experimental record, not an executable
 analysis. Neither is presented as reproduced by these examples.
-9. **Public release:** no files have been pushed, no data DOI has been assigned, and no release has been
-published by this preparation. The manuscript must cite the final tested commit/release and data record.
+9. **Public release:** the initial analysis package was pushed and is present on the default branch
+(verified on 2026-10-22 at commit `9318e9cb32ffcb6bf10eea74842a2b5026248349`).
+A versioned release and data DOI remain to be assigned. The manuscript should cite the final tested release and data record.
 
 The completed deliverables are the indexed source package and the two tested downstream examples.
 Complete raw-data reexecution remains a separate release milestone.

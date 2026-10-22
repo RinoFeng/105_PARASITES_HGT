@@ -9,6 +9,12 @@ The `source_reference/` scripts document existing analyses and have not been pac
 raw-genome-to-final-catalogue workflow. External databases, complete phylogenies, alignments,
 and some upstream input datasets are indexed but are not included here.
 
+## Identification workflow
+
+Protein/nucleotide searches → distribution and conservation screening → genomic placement and contig screening → homolog sampling and gene-tree construction → tree assessment → catalogue integration.
+
+The [candidate screening guide](docs/candidate_screening.md) describes contig composition and tiers, MAFFT/trimAl/IQ-TREE construction, tree classification and the corresponding evidence tables. The historical sampling and tree-building scripts are now included under `source_reference/`. Their external sequence databases and alignments are not bundled. These source copies have not been run as a portable end-to-end workflow in this release.
+
 ## Quick start
 
 ```bash

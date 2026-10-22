@@ -9,6 +9,21 @@ Full upstream data dependencies and remaining release requirements are listed in
 [release scope](revision_2026/docs/release_gaps.md).
 The earlier code remains available in `HGT_parasite_Project` and in the repository commit history.
 
+## HGT identification: from searches to the curated catalogue
+
+The identification workflow includes **both contig screening and gene-tree assessment**. The two downstream examples below start after those stages; they do not replace them.
+
+| Stage | What is assessed | Code and evidence |
+|---|---|---|
+| 1. Complementary searches | Protein homologs and translated genomic windows | Historical search scripts; analysis modules A02–A03 |
+| 2. Initial candidate selection | Self/close/distant distributions, alignment evidence, Alien Index, entropy, and conservation/EGT exclusions | Stage-specific rules in [Method parameters](revision_2026/source_data/tables/S1/Method_parameters.tsv) |
+| 3. Genomic placement and contig screening | Candidate coordinates, contig composition, contig length, distance from an edge, candidate-region fraction, and supporting evidence | [Contig screening guide](revision_2026/docs/candidate_screening.md#contig-screening) |
+| 4. Homolog sampling and gene-tree construction | Recipient and distant references, sequence alignment, trimming, maximum-likelihood inference, and branch support | [Sampling and tree-building scripts](revision_2026/source_reference/analysis/revision_pnas/HGT_candidate_verify/phylogentic_tree_test/hgt_phylo_pipeline/) |
+| 5. Gene-tree assessment | Query placement, self/close/distant context, branch support, long branches, and sequence-quality flags | [Tree assessment guide](revision_2026/docs/candidate_screening.md#gene-tree-assessment) |
+| 6. Catalogue integration | Combine retained evidence, resolve overlaps and duplicates, and preserve record-to-locus correspondence | [Catalogue of 8,989 entries](revision_2026/source_data/tables/S1/Catalogue_8989.tsv); modules A01/A05/A09 |
+
+See the [screening guide](revision_2026/docs/candidate_screening.md) for inputs, outputs, implemented contig tiers and tree settings. Source copies document the analyses; the complete upstream databases and tree archive are external dependencies. The independently tested examples reproduce downstream quantity and functional summaries.
+
 ---
 
 ## Earlier workflow documentation
@@ -26,7 +41,7 @@ Our approach features a **Dual-Pipeline Detection Workflow** (Nucleotide Slicing
 Parasitic genomes are often characterized by extensive gene loss, rapid divergence, and high risks of assembly contamination (e.g., from host or environmental microbiomes). To address this, we developed a highly robust pipeline to identify authentic HGT events:
 
 1. **Phylogenetic Grouping:** Taxa are dynamically assigned into `Self-group` (same phylum), `Out-group` (potential donors: bacteria, archaea, plants, fungi, viruses, host class), and `Close-group` (other eukaryotes).
-2. **Dual-Pipeline Alignment:** - *Genomic Slicing:* 1,500 bp sliding windows to capture HGTs across contig boundaries.
+2. **Dual-Pipeline Alignment:** - *Genomic Slicing:* 1,500 bp sliding windows within assembled contigs.
    - *Protein-Level:* Proteome-wide alignment against NCBI `core_nr`.
 3. **Strict HGT Metrics:** Alien Index (AI) > 0, Outgroup Percentage > 90%, and Dominant Outgroup Count.
 4. **Advanced Refinement:** - **Phylogenetic Entropy Filtering:** Distinguishes recent HGTs from ancient, widely conserved eukaryotic genes.
@@ -93,7 +108,19 @@ Execute the refinement script to remove Endosymbiotic Gene Transfers (EGTs) and 
 bash script/02_rmEGTand
 ```
 
-The final high-confidence HGT candidates will be outputted to `results/rmEGT_rmContaminatedcontig/rm_wrong_contig/` as `final_nucl_10k.len_validated.txt` and `final_prot_10k.prot_validated.txt`.
+The files `final_nucl_10k.len_validated.txt` and `final_prot_10k.prot_validated.txt` in `results/rmEGT_rmContaminatedcontig/rm_wrong_contig/` are the historical contig-screened inputs to subsequent curation. Their filenames do not mean that gene-tree assessment has already been performed.
+
+### Step 4: Contig-context tiers
+
+Evaluate mapped candidates using contig length, distance to the contig edge, candidate-region fraction and additional supporting features. The revised source implementations and explicit thresholds are documented in the [contig screening guide](revision_2026/docs/candidate_screening.md#contig-screening). Initial contig voting and later context tiers are separate checks.
+
+### Step 5: Homolog sampling, tree building and assessment
+
+Prepare candidate targets, sample self/close/distant homologs, extract sequences, align with MAFFT, trim with trimAl and infer gene trees with IQ-TREE. Assess query placement and support together with sampling and long-branch flags. See the [tree workflow](revision_2026/docs/candidate_screening.md#homolog-sampling-and-tree-construction) and the [tree assessment records](revision_2026/source_data/tables/S1/Gene_tree_assessment.tsv).
+
+### Step 6: Retained catalogue and downstream analyses
+
+Integrate the retained evidence and deduplicate overlapping candidate records to obtain the manuscript catalogue. The released [catalogue table](revision_2026/source_data/tables/S1/Catalogue_8989.tsv) contains 8,989 entries. Downstream analysis inputs and examples are indexed in [revision_2026](revision_2026/README.md).
 
 ---
 
