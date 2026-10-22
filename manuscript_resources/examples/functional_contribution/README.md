@@ -1,6 +1,6 @@
 # Matched-family functional contribution example
 
-Run `python examples/functional_contribution/run.py` from `revision_2026/`.
+Run `python examples/functional_contribution/run.py` from `manuscript_resources/`.
 The input is the frozen final `family_effects_augmented_same_reference.tsv.gz` table,
 with 1,940 species-by-candidate-family observations across 48 species.
 `OG` is the original gene-family identifier. Matching of background families has already been done;

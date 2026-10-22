@@ -1,4 +1,4 @@
-# Parasite HGT manuscript: 2026 analysis materials
+# Parasite HGT: manuscript resources
 
 This directory supplements the original `HGT_parasite_Project` code in the parent repository.
 It contains a manuscript-to-analysis index, selected source data, provenance copies of analysis scripts,
@@ -18,7 +18,7 @@ The [candidate screening guide](docs/candidate_screening.md) describes contig co
 ## Quick start
 
 ```bash
-cd revision_2026
+cd manuscript_resources
 python3 -m venv .venv
 . .venv/bin/activate
 python -m pip install -r requirements-examples.txt

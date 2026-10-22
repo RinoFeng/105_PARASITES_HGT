@@ -1,6 +1,6 @@
 # Fixed 48-species quantity comparison
 
-Run `python examples/family_comparison/run.py` from `revision_2026/`.
+Run `python examples/family_comparison/run.py` from `manuscript_resources/`.
 The input is a frozen subset of `S2/Q_species_counts.tsv`, scenario `augmented_same_reference`,
 retaining species marked `entered_function_comparison=True`.
 
