@@ -3,3 +3,6 @@ __pycache__/
 .venv/
 examples/*/output/
 .DS_Store
+
+# Keep the frozen example input despite legacy repository-wide *.gz exclusions.
+!examples/functional_contribution/input/family_effects.tsv.gz
