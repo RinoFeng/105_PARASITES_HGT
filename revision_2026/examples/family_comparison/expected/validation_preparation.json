@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "species": 48,
+  "candidate_loci": 2299,
+  "species_candidate_family_units": 1973,
+  "saved_contrasts_verified": 9,
+  "max_absolute_error": 3.552713678800501e-15,
+  "seed": 20260922,
+  "replicates": 1000,
+  "interval_definition": "central 95% species-subset range; not a confidence interval or formal P value",
+  "python": "3.9.18",
+  "numpy": "1.26.2",
+  "pandas": "1.5.3",
+  "matplotlib": "3.9.4"
+}

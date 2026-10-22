@@ -1,0 +1,9 @@
+name: parasite-hgt-examples
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.9.18
+  - numpy=1.26.2
+  - pandas=1.5.3
+  - matplotlib=3.9.4

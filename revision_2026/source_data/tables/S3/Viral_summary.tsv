@@ -1,0 +1,9 @@
+measure	count	unit	interpretation
+Catalogue candidates	8989	catalogue records	All accepted records; 8,985 + 4
+Catalogue entries with viral homology	1198	catalogue records	Aggregate of documented nonredundant catalogue groups; not a count of proven viral donors
+Irwin complete amino-acid sequence matches	44	distinct literature proteins	Complete sequence identity, not length alone or identical accession
+Matches in well-supported events meeting contamination threshold	21	matched literature proteins	Verified event members, not number of distinct transfer events
+Well-supported VtoE members	7	matched literature proteins	Virus-to-eukaryote direction in the literature
+Well-supported direction-unresolved members	14	matched literature proteins	Direction not established
+Weak-only explicit members	8	matched literature proteins	One VtoE and seven direction-unresolved
+No explicit post-filter event membership established	15	matched literature proteins	No direction inferred solely from family or protein overlap

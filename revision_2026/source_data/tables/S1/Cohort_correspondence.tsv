@@ -1,0 +1,13 @@
+accession	in_catalogue_8989	in_PCR_preferred_profile_8985	role	evidence_transfer_allowed
+CAC5432406.1	True	False	different_record_membership	False
+CAC5433243.1	False	True	different_record_membership	False
+CAM70633.1	False	True	different_record_membership	False
+CBZ08461.1	True	False	different_record_membership	False
+EAK89500.1	False	True	different_record_membership	False
+ELR15564.1	True	False	viral_addition	False
+ELR16993.1	True	False	viral_addition	False
+RNC50057.1	True	False	viral_addition	False
+TRY50040.1	False	True	different_record_membership	False
+TRY52038.1	True	False	different_record_membership	False
+XP_004339817.1	True	False	viral_addition	False
+XP_625605.1	True	False	different_record_membership	False

@@ -1,0 +1,45 @@
+irwin_sequence_id	local_accessions	local_hgt_ids	contamination_score	clusters	status	well_supported_directions	weak_directions	well_supported_events	weak_events
+110365.A0A023AYA4	EZG43408.1	HGT013429__Gregarina_niphandrodes__EZG43408.1	2	C001007	weak_only_explicit_member		VtoE		Irwin_2ac907590070049dd250
+110365.A0A023B2G0	EZG52600.1	HGT013400__Gregarina_niphandrodes__EZG52600.1	3	C000705	no_explicit_postfilter_member				
+110365.A0A023B6V9	EZG66768.1	HGT013413__Gregarina_niphandrodes__EZG66768.1	3	C002330	no_explicit_postfilter_member				
+112090.W4FSI9	ETV70437.1	HGT005375__Aphanomyces_astaci__ETV70437.1	7	C000136	no_explicit_postfilter_member				
+112090.W4G2Q3	RQM20115.1	HGT004533__Aphanomyces_astaci__RQM20115.1	5	C000253	well_supported_explicit_member	unkn		Irwin_63fc8a5a3134b197b814	
+112090.W4GT32	ETV82134.1	HGT004681__Aphanomyces_astaci__ETV82134.1	5	C000562	well_supported_explicit_member	unkn		Irwin_a05da16af0ee5df4e0d0	
+1257118.L8GCL7	ELR10822.1	HGT009955__Acanthamoeba_castellanii__ELR10822.1	3	C006034	no_explicit_postfilter_member				
+1257118.L8GCZ7	ELR10942.1	HGT005495__Acanthamoeba_castellanii__ELR10942.1	3	C001466	weak_only_explicit_member		unkn		Irwin_88af86cbf1a78819c07b
+1257118.L8GDX3	ELR11227.1	HGT013577__Acanthamoeba_castellanii__ELR11227.1	4	C000209	well_supported_explicit_member	unkn		Irwin_f3fb89f07b6d743c2901	
+1257118.L8GFR2	ELR11021.1	HGT013023__Acanthamoeba_castellanii__ELR11021.1	3	C003406	no_explicit_postfilter_member				
+1257118.L8GI16	ELR11836.1	HGT009961__Acanthamoeba_castellanii__ELR11836.1	2	C004200	well_supported_explicit_member	VtoE		Irwin_5c72ccf18fcb9a9bc409	
+1257118.L8GIE7	ELR12865.1	HGT012972__Acanthamoeba_castellanii__ELR12865.1	3	C002658	no_explicit_postfilter_member				
+1257118.L8GUL7	ELR16607.1	HGT012994__Acanthamoeba_castellanii__ELR16607.1	4	C002345	well_supported_explicit_member	unkn		Irwin_5d40b3cde3d853a4027a	
+1257118.L8GV47	ELR17064.1	HGT013070__Acanthamoeba_castellanii__ELR17064.1	4	C002265	well_supported_explicit_member	unkn		Irwin_6523febb794bdc8c9a2c	
+1257118.L8GWM6	ELR16993.1	VP_G001_000031	3	C007715	well_supported_explicit_member	VtoE		Irwin_544051f5e5745a9566fc	
+1257118.L8H031	ELR17736.1	HGT013607__Acanthamoeba_castellanii__ELR17736.1	4	C000380	well_supported_explicit_member	VtoE		Irwin_6995b6a99dba5e36de07	
+1257118.L8H050	XP_004340634.1	HGT012900__Acanthamoeba_castellanii__XP_004340634.1	2	C002658	no_explicit_postfilter_member				
+1257118.L8H4G5	ELR19598.1	HGT013196__Acanthamoeba_castellanii__ELR19598.1	2	C005875	well_supported_explicit_member	VtoE		Irwin_69843a28958c4f4642e7	
+1257118.L8H526	ELR19551.1	HGT012941__Acanthamoeba_castellanii__ELR19551.1	3	C001004	well_supported_explicit_member	VtoE		Irwin_64e44593cbcb76daffab	
+1257118.L8H739	ELR21349.1	HGT012677__Acanthamoeba_castellanii__ELR21349.1	4	C000040	well_supported_explicit_member	unkn		Irwin_cebcf53d7b9dff0e7394	
+1257118.L8H749	XP_004344708.1	HGT013036__Acanthamoeba_castellanii__XP_004344708.1	3	C006034	no_explicit_postfilter_member				
+126793.A5KAG7	CAI7718170.1	HGT007689__Plasmodium_vivax__CAI7718170.1	3	C001299	weak_only_explicit_member		unkn		Irwin_ab2b09abd394f4ab011c
+12968.D8M5I4	CBK23323.2	HGT010048__Blastocystis_hominis__CBK23323.2	3	C000556	no_explicit_postfilter_member				
+36329.Q5MYR6	XP_002808799.1	HGT010776__Plasmodium_falciparum_3D7__XP_002808799.1	3	C000518	well_supported_explicit_member	unkn		Irwin_6271050e05bb43a76592	
+36329.Q8IBT4	XP_001349069.1	HGT010781__Plasmodium_falciparum_3D7__XP_001349069.1	6	C001299	weak_only_explicit_member		unkn		Irwin_ab2b09abd394f4ab011c
+370355.A0A0A1TXU8	XP_004185586.1	HGT011949__Entamoeba_invadens_IP1__XP_004185586.1	2	C000503	weak_only_explicit_member		unkn		Irwin_c641d8bd0094acb015a2
+423536.C5KFU7	XP_002784853.1	HGT005073__Perkinsus_marinus_ATCC_50983__XP_002784853.1	2	C000139	well_supported_explicit_member	VtoE		Irwin_111fea46e30463105f06	
+423536.C5KRV1	XP_002780997.1	HGT009220__Perkinsus_marinus_ATCC_50983__XP_002780997.1	5	C000849	well_supported_explicit_member	unkn		Irwin_af271e0848145363c1dd	
+5722.A2DL48	XP_001579825.1	HGT011376__Trichomonas_vaginalis_G3__XP_001579825.1	3	C004578	well_supported_explicit_member	unkn		Irwin_0b8d35f50a0cd56a49e5	
+5722.A2DTY5	XP_001328355.1	HGT010456__Trichomonas_vaginalis_G3__XP_001328355.1	4	C004578	well_supported_explicit_member	unkn		Irwin_0b8d35f50a0cd56a49e5	
+5722.A2DUV4	XP_001328062.1	HGT010980__Trichomonas_vaginalis_G3__XP_001328062.1	3	C001615	no_explicit_postfilter_member				
+5722.A2DZZ5	XP_001326277.1	HGT011236__Trichomonas_vaginalis_G3__XP_001326277.1	2	C001615	no_explicit_postfilter_member				
+5722.A2EIU0	XP_001319647.1	HGT010471__Trichomonas_vaginalis_G3__XP_001319647.1	3	C004578	well_supported_explicit_member	unkn		Irwin_0b8d35f50a0cd56a49e5	
+5722.A2EKG5	XP_001319096.1	HGT010393__Trichomonas_vaginalis_G3__XP_001319096.1	5	C001827	no_explicit_postfilter_member				
+5722.A2ERS1	XP_001316875.1	HGT010346__Trichomonas_vaginalis_G3__XP_001316875.1	4	C000516	well_supported_explicit_member	unkn		Irwin_9ebdc540bfe05f7759c1	
+5722.A2F1K7	XP_001330141.1	HGT011437__Trichomonas_vaginalis_G3__XP_001330141.1	4	C000514	no_explicit_postfilter_member				
+5722.A2FNB2	XP_001306538.1	HGT010434__Trichomonas_vaginalis_G3__XP_001306538.1	2	C000523	no_explicit_postfilter_member				
+5722.A2G3Q2	XP_001301144.1	HGT011358__Trichomonas_vaginalis_G3__XP_001301144.1	4	C004578	well_supported_explicit_member	unkn		Irwin_0b8d35f50a0cd56a49e5	
+5759.C4M2I9	XP_652066.1	HGT013738__Entamoeba_histolytica_HM_1_IMSS__XP_652066.1	4	C000189	well_supported_explicit_member	unkn		Irwin_bdbf7f0d7fedb6698e5b	
+5759.C4M2J4	XP_652071.1	HGT013746__Entamoeba_histolytica_HM_1_IMSS__XP_652071.1	5	C000377	weak_only_explicit_member		unkn		Irwin_90eaf6172d5979046d82
+5759.Q60I38	EAL49996.1	HGT005054__Entamoeba_histolytica_HM_1_IMSS__EAL49996.1	4	C000743	no_explicit_postfilter_member				
+5823.A0A077X7M4	VUC54818.1	HGT008008__Plasmodium_berghei_ANKA__VUC54818.1	3	C001299	weak_only_explicit_member		unkn		Irwin_ab2b09abd394f4ab011c
+5851.B3L056	XP_002261086.1	HGT009690__Plasmodium_knowlesi_strain_H__XP_002261086.1	4	C001299	weak_only_explicit_member		unkn		Irwin_ab2b09abd394f4ab011c
+94643.A0A2A9M202	PFH31274.1	HGT007399__Besnoitia_besnoiti__PFH31274.1	4	C000533	well_supported_explicit_member	VtoE		Irwin_22cbfdaa9d6fbb06542f	

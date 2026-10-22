@@ -1,0 +1,49 @@
+species	clade	quartets	retained
+Ancylostoma ceylanicum	Metazoa	4	False
+Angiostrongylus costaricensis	Metazoa	1	False
+Babesia bovis T2Bo	Apicomplexa	0	False
+Babesia microti strain RI	Apicomplexa	0	False
+Babesia ovata	Apicomplexa	1	False
+Babesia sp. Xinjiang	Apicomplexa	0	False
+Besnoitia besnoiti	Apicomplexa	1	False
+Cryptosporidium muris RN66	Apicomplexa	0	False
+Cyclospora cayetanensis	Apicomplexa	4	False
+Cystoisospora suis	Apicomplexa	1	False
+Dracunculus medinensis	Metazoa	2	False
+Entamoeba dispar SAW760	Amoebozoa	9	False
+Entamoeba histolytica HM-1:IMSS	Amoebozoa	44	True
+Entamoeba invadens IP1	Amoebozoa	79	True
+Enterobius vermicularis	Metazoa	3	False
+Gregarina niphandrodes	Apicomplexa	9	False
+Hammondia hammondi	Apicomplexa	0	False
+Leishmania braziliensis MHOM/BR/75/M2904	Euglenozoa	12	True
+Leishmania major strain Friedlin	Euglenozoa	9	False
+Leishmania martiniquensis	Euglenozoa	11	True
+Leishmania mexicana MHOM/GT/2001/U1103	Euglenozoa	0	False
+Leishmania orientalis	Euglenozoa	5	False
+Leishmania tarentolae	Euglenozoa	7	False
+Leptomonas pyrrhocoris	Euglenozoa	13	True
+Necator americanus	Metazoa	4	False
+Neospora caninum Liverpool	Apicomplexa	2	False
+Plasmodium berghei ANKA	Apicomplexa	0	False
+Plasmodium chabaudi chabaudi	Apicomplexa	1	False
+Plasmodium cynomolgi strain B	Apicomplexa	0	False
+Plasmodium falciparum 3D7	Apicomplexa	0	False
+Plasmodium fragile	Apicomplexa	0	False
+Plasmodium gallinaceum	Apicomplexa	0	False
+Plasmodium inui San Antonio 1	Apicomplexa	0	False
+Plasmodium knowlesi strain H	Apicomplexa	0	False
+Plasmodium ovale wallikeri	Apicomplexa	0	False
+Plasmodium relictum	Apicomplexa	0	False
+Plasmodium vinckei petteri	Apicomplexa	0	False
+Plasmodium vivax	Apicomplexa	0	False
+Porcisia hertigi	Euglenozoa	11	True
+Theileria annulata	Apicomplexa	0	False
+Theileria equi strain WA	Apicomplexa	0	False
+Theileria orientalis strain Shintoku	Apicomplexa	0	False
+Theileria parva strain Muguga	Apicomplexa	0	False
+Toxocara canis	Metazoa	4	False
+Toxoplasma gondii ME49	Apicomplexa	4	False
+Trypanosoma brucei brucei TREU927	Euglenozoa	2	False
+Trypanosoma grayi	Euglenozoa	6	False
+Trypanosoma theileri	Euglenozoa	12	True

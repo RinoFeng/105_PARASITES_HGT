@@ -1,0 +1,4 @@
+version	n	groups	F	df_group	df_residual	P	permutations	seed	type	bias_adjust	add	negative_eigenvalues	warnings
+primary_median_bias_adjusted	103	5	8.3189601901483	4	98	0.0007	9999	20261003	median	True	FALSE	47	
+median_unadjusted	103	5	8.05128325293236	4	98	0.0007	9999	20261003	median	False	FALSE	47	
+median_bias_adjusted_Lingoes	103	5	7.21937285118556	4	98	0.0016	9999	20261003	median	True	lingoes	0	

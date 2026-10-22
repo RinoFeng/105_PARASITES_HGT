@@ -1,0 +1,5 @@
+file	url	size	sha256	release_number
+viral.1.protein.faa.gz	https://ftp.ncbi.nlm.nih.gov/refseq/release/viral/viral.1.protein.faa.gz	107327224	31c0a2a7c56141fa224ce3d6a5393eee438e1e75653e18395f082191924b299d	not_recorded
+viral.1.1.genomic.fna.gz	https://ftp.ncbi.nlm.nih.gov/refseq/release/viral/viral.1.1.genomic.fna.gz	178194466	ca078cd39bd1a119b7453fadf141b7ecd640f353e4b8398584c6a5b85d1a6aa2	not_recorded
+viral.1.genomic.gbff.gz	https://ftp.ncbi.nlm.nih.gov/refseq/release/viral/viral.1.genomic.gbff.gz	455739627	1a4c4faf3381459005196c430db1ec0d145be628aac8ca0cae98d4f7928e3ee3	not_recorded
+taxdump.tar.gz	https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxdump.tar.gz	79141655	39c16443651de567142c1a9ba9c8625d837272fac5b888efdc1fb762bbc23ec5	not_recorded

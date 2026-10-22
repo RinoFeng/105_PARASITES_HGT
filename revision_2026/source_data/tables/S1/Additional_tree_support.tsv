@@ -1,0 +1,5 @@
+accession	species	query_aa_length_actual	contig_context_tier	final_gate_initial_distribution	final_gate_original_mapping_contig	final_gate_revision_contig_tier	final_gate_tree_sampling	final_gate_tree_primary	final_gate_tree_C20_sensitivity	final_gate_all_required_stages_passed	final_gate_final_status
+ELR15564.1	Acanthamoeba castellanii	267	Tier 1	PASS	Pass	Pass	Pass	Pass	Pass	True	Criteria met
+ELR16993.1	Acanthamoeba castellanii	197	Tier2_adaptive	PASS	Pass	Pass	Pass	Pass	Pass	True	Criteria met
+XP_004339817.1	Acanthamoeba castellanii	126	Tier2_adaptive	PASS	Pass	Pass	Pass	Pass	Pass	True	Criteria met
+RNC50057.1	Trypanosoma cruzi	179	Tier2_adaptive	PASS	Pass	Pass	Pass	Pass	Pass	True	Criteria met

@@ -1,0 +1,97 @@
+species	role	expected_families	observed_families	expected_loci	observed_loci	passed
+Ancylostoma ceylanicum	candidate	13	13	14	14	True
+Ancylostoma ceylanicum	background	6589	6589	10720	10720	True
+Angiostrongylus costaricensis	candidate	11	11	14	14	True
+Angiostrongylus costaricensis	background	6550	6550	9836	9836	True
+Babesia bovis T2Bo	candidate	39	39	41	41	True
+Babesia bovis T2Bo	background	2585	2585	3260	3260	True
+Babesia microti strain RI	candidate	36	36	37	37	True
+Babesia microti strain RI	background	2544	2544	2861	2861	True
+Babesia ovata	candidate	27	27	30	30	True
+Babesia ovata	background	2678	2678	4253	4253	True
+Babesia sp. Xinjiang	candidate	25	25	26	26	True
+Babesia sp. Xinjiang	background	1939	1939	2436	2436	True
+Besnoitia besnoiti	candidate	50	50	53	53	True
+Besnoitia besnoiti	background	5322	5322	6701	6701	True
+Cryptosporidium muris RN66	candidate	24	24	26	26	True
+Cryptosporidium muris RN66	background	2767	2767	3137	3137	True
+Cyclospora cayetanensis	candidate	30	30	31	31	True
+Cyclospora cayetanensis	background	4818	4818	5704	5704	True
+Cystoisospora suis	candidate	27	27	27	27	True
+Cystoisospora suis	background	5519	5519	6354	6354	True
+Dracunculus medinensis	candidate	10	10	10	10	True
+Dracunculus medinensis	background	5752	5752	8621	8621	True
+Entamoeba dispar SAW760	candidate	32	32	32	32	True
+Entamoeba dispar SAW760	background	2429	2429	3622	3622	True
+Entamoeba histolytica HM-1:IMSS	candidate	99	99	110	110	True
+Entamoeba histolytica HM-1:IMSS	background	3771	3771	5368	5368	True
+Entamoeba invadens IP1	candidate	164	164	252	252	True
+Entamoeba invadens IP1	background	4604	4604	8157	8157	True
+Enterobius vermicularis	candidate	11	11	11	11	True
+Enterobius vermicularis	background	6970	6970	9763	9763	True
+Gregarina niphandrodes	candidate	62	62	76	76	True
+Gregarina niphandrodes	background	3206	3206	4579	4579	True
+Hammondia hammondi	candidate	13	13	13	13	True
+Hammondia hammondi	background	3971	3971	4471	4471	True
+Leishmania braziliensis MHOM/BR/75/M2904	candidate	80	80	94	94	True
+Leishmania braziliensis MHOM/BR/75/M2904	background	4798	4798	5483	5483	True
+Leishmania major strain Friedlin	candidate	64	64	80	80	True
+Leishmania major strain Friedlin	background	4698	4698	5272	5272	True
+Leishmania martiniquensis	candidate	70	70	86	86	True
+Leishmania martiniquensis	background	5043	5043	5648	5648	True
+Leishmania mexicana MHOM/GT/2001/U1103	candidate	29	29	34	34	True
+Leishmania mexicana MHOM/GT/2001/U1103	background	3582	3582	3904	3904	True
+Leishmania orientalis	candidate	50	50	66	66	True
+Leishmania orientalis	background	4467	4467	4866	4866	True
+Leishmania tarentolae	candidate	53	53	61	61	True
+Leishmania tarentolae	background	5277	5277	6034	6034	True
+Leptomonas pyrrhocoris	candidate	119	119	175	175	True
+Leptomonas pyrrhocoris	background	6175	6175	7513	7513	True
+Necator americanus	candidate	16	16	20	20	True
+Necator americanus	background	8965	8965	13294	13294	True
+Neospora caninum Liverpool	candidate	46	46	49	49	True
+Neospora caninum Liverpool	background	4478	4478	5291	5291	True
+Plasmodium berghei ANKA	candidate	22	22	22	22	True
+Plasmodium berghei ANKA	background	2484	2484	2805	2805	True
+Plasmodium chabaudi chabaudi	candidate	33	33	34	34	True
+Plasmodium chabaudi chabaudi	background	2814	2814	3301	3301	True
+Plasmodium cynomolgi strain B	candidate	24	24	25	25	True
+Plasmodium cynomolgi strain B	background	2616	2616	3082	3082	True
+Plasmodium falciparum 3D7	candidate	35	35	38	38	True
+Plasmodium falciparum 3D7	background	3270	3270	3874	3874	True
+Plasmodium fragile	candidate	33	33	34	34	True
+Plasmodium fragile	background	3116	3116	4003	4003	True
+Plasmodium gallinaceum	candidate	38	38	40	40	True
+Plasmodium gallinaceum	background	3093	3093	3625	3625	True
+Plasmodium inui San Antonio 1	candidate	28	28	30	30	True
+Plasmodium inui San Antonio 1	background	3322	3322	4041	4041	True
+Plasmodium knowlesi strain H	candidate	39	39	41	41	True
+Plasmodium knowlesi strain H	background	2951	2951	3425	3425	True
+Plasmodium ovale wallikeri	candidate	16	16	17	17	True
+Plasmodium ovale wallikeri	background	1958	1958	2167	2167	True
+Plasmodium relictum	candidate	50	50	51	51	True
+Plasmodium relictum	background	3424	3424	3907	3907	True
+Plasmodium vinckei petteri	candidate	20	20	20	20	True
+Plasmodium vinckei petteri	background	2090	2090	2492	2492	True
+Plasmodium vivax	candidate	27	27	28	28	True
+Plasmodium vivax	background	2381	2381	2588	2588	True
+Porcisia hertigi	candidate	72	72	94	94	True
+Porcisia hertigi	background	5185	5185	5873	5873	True
+Theileria annulata	candidate	21	21	21	21	True
+Theileria annulata	background	1867	1867	2288	2288	True
+Theileria equi strain WA	candidate	44	44	44	44	True
+Theileria equi strain WA	background	2622	2622	4539	4539	True
+Theileria orientalis strain Shintoku	candidate	28	28	31	31	True
+Theileria orientalis strain Shintoku	background	2572	2572	3118	3118	True
+Theileria parva strain Muguga	candidate	34	34	37	37	True
+Theileria parva strain Muguga	background	2374	2374	2890	2890	True
+Toxocara canis	candidate	12	12	16	16	True
+Toxocara canis	background	8643	8643	12732	12732	True
+Toxoplasma gondii ME49	candidate	40	40	43	43	True
+Toxoplasma gondii ME49	background	5717	5717	6612	6612	True
+Trypanosoma brucei brucei TREU927	candidate	49	49	49	49	True
+Trypanosoma brucei brucei TREU927	background	5907	5907	6986	6986	True
+Trypanosoma grayi	candidate	30	30	31	31	True
+Trypanosoma grayi	background	6135	6135	7191	7191	True
+Trypanosoma theileri	candidate	78	78	85	85	True
+Trypanosoma theileri	background	6119	6119	8112	8112	True

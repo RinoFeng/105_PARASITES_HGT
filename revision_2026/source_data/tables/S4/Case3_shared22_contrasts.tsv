@@ -1,0 +1,13 @@
+species_A	species_B	category	contrast_pp
+Leishmania major strain Friedlin	Leishmania braziliensis MHOM/BR/75/M2904	E	-1.186377321129095
+Leishmania major strain Friedlin	Leishmania braziliensis MHOM/BR/75/M2904	F	2.6693489725404618
+Leishmania major strain Friedlin	Leishmania braziliensis MHOM/BR/75/M2904	G	1.8712832347584136
+Leishmania major strain Friedlin	Leishmania braziliensis MHOM/BR/75/M2904	H	0.15365780791312655
+Leishmania major strain Friedlin	Leishmania martiniquensis	E	1.0380801559879576
+Leishmania major strain Friedlin	Leishmania martiniquensis	F	0.0
+Leishmania major strain Friedlin	Leishmania martiniquensis	G	0.8897829908468236
+Leishmania major strain Friedlin	Leishmania martiniquensis	H	-0.15365780791312744
+Leishmania braziliensis MHOM/BR/75/M2904	Leishmania martiniquensis	E	2.2244574771170527
+Leishmania braziliensis MHOM/BR/75/M2904	Leishmania martiniquensis	F	-2.6693489725404618
+Leishmania braziliensis MHOM/BR/75/M2904	Leishmania martiniquensis	G	-0.9815002439115901
+Leishmania braziliensis MHOM/BR/75/M2904	Leishmania martiniquensis	H	-0.307315615826254
