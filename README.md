@@ -1,5 +1,20 @@
 # Identification of Horizontal Gene Transfer (HGT) in Parasitic Genomes
 
+## Manuscript-associated analyses (2026 revision)
+
+Updated analysis materials are available in [revision_2026](revision_2026/README.md), including
+an analysis-to-manuscript index, selected source tables and two tested reproduction examples.
+The examples reproduce the fixed 48-species quantity comparison and matched-family functional contributions.
+Full upstream data dependencies and remaining release requirements are listed in
+[release scope](revision_2026/docs/release_gaps.md).
+The earlier code remains available in `HGT_parasite_Project` and in the repository commit history.
+
+---
+
+## Earlier workflow documentation
+
+The sections below describe the earlier project implementation. For the current manuscript-associated analysis index and tested examples, start with `revision_2026/`.
+
 This repository contains the code, scripts, and analytical pipelines used for the comprehensive identification and refinement of Horizontal Gene Transfer (HGT) events across 105 pathogenic parasitic species. 
 
 Our approach features a **Dual-Pipeline Detection Workflow** (Nucleotide Slicing & Protein Alignment) combined with a rigorous quality control framework, including Phylogenetic Entropy Filtering, Endosymbiotic Gene Transfer (EGT) exclusion, and a novel **Contig Voting Decontamination Strategy**.

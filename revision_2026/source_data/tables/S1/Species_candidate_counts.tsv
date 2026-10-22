@@ -1,0 +1,106 @@
+species	genome	taxid	group	candidate_count
+Acanthamoeba castellanii	GCA_000193105.1	1257118	Microbial eukaryotic parasites	728
+Ancylostoma ceylanicum	GCA_000402015.1	53326	Metazoa	39
+Ancylostoma duodenale	GCA_000816745.1	51022	Metazoa	13
+Angiostrongylus costaricensis	GCA_900624975.1	334426	Metazoa	20
+Anisakis simplex	GCA_900576815.1	1048626	Metazoa	3
+Aphanomyces astaci	GCA_000520075.1	112090	Microbial eukaryotic parasites	1306
+Ascaris suum	GCA_000187025.3	6253	Metazoa	21
+Babesia bigemina	GCA_000723445.1	5866	Microbial eukaryotic parasites	41
+Babesia bovis T2Bo	GCA_000165395.2	484906	Microbial eukaryotic parasites	48
+Babesia microti strain RI	GCA_000691945.2	1133968	Microbial eukaryotic parasites	46
+Babesia ovata	GCA_002897235.1	1410466	Microbial eukaryotic parasites	42
+Babesia sp. Xinjiang	GCA_002095265.1	191764	Microbial eukaryotic parasites	43
+Besnoitia besnoiti	GCA_002563875.1	94643	Microbial eukaryotic parasites	78
+Blastocystis hominis	GCA_000151665.1	12968	Microbial eukaryotic parasites	182
+Brugia malayi	GCA_000002995.5	6279	Metazoa	12
+Chromera velia	GCA_000585135.1	505693	Microbial eukaryotic parasites	4
+Clonorchis sinensis	GCA_000236345.1	79923	Metazoa	4
+Cryptosporidium andersoni	GCA_001835725.1	117008	Microbial eukaryotic parasites	14
+Cryptosporidium hominis TU502	GCA_000006425.2	353151	Microbial eukaryotic parasites	7
+Cryptosporidium meleagridis	GCA_001593445.1	93969	Microbial eukaryotic parasites	22
+Cryptosporidium muris RN66	GCA_000006515.1	441375	Microbial eukaryotic parasites	27
+Cryptosporidium parvum Iowa II	GCA_000165345.1	353152	Microbial eukaryotic parasites	26
+Cryptosporidium tyzzeri	GCA_007210665.1	756076	Microbial eukaryotic parasites	22
+Cryptosporidium ubiquitum	GCA_001835705.1	857276	Microbial eukaryotic parasites	19
+Cyclospora cayetanensis	GCA_000769155.2	88456	Microbial eukaryotic parasites	72
+Cystoisospora suis	GCA_002600585.1	483139	Microbial eukaryotic parasites	43
+Dracunculus medinensis	GCA_900625125.1	318479	Metazoa	10
+Echinococcus granulosus	GCA_000524195.1	1537665	Metazoa	1
+Echinococcus multilocularis	GCA_000469725.3	6211	Metazoa	1
+Echinostoma caproni	GCA_900618425.1	27848	Metazoa	4
+Entamoeba dispar SAW760	GCA_000209125.2	370354	Microbial eukaryotic parasites	81
+Entamoeba histolytica HM-1:IMSS	GCA_000208925.2	294381	Microbial eukaryotic parasites	136
+Entamoeba invadens IP1	GCA_000330505.1	370355	Microbial eukaryotic parasites	310
+Entamoeba nuttalli P19	GCA_000257125.1	1076696	Microbial eukaryotic parasites	18
+Enterobius vermicularis	GCA_900576705.1	51028	Metazoa	15
+Fasciola hepatica	GCA_000824725.2	2608784	Metazoa	5
+Gregarina niphandrodes	GCA_000223845.4	110365	Microbial eukaryotic parasites	96
+Haematobia irritans	GCA_003123925.1	34678	Metazoa	7
+Hammondia hammondi	GCA_000258005.2	99158	Microbial eukaryotic parasites	52
+Hymenolepis diminuta	GCA_900618445.1	6216	Metazoa	1
+Leishmania braziliensis MHOM/BR/75/M2904	GCA_000002845.2	420245	Microbial eukaryotic parasites	132
+Leishmania donovani	GCA_000227135.2	1294179	Microbial eukaryotic parasites	122
+Leishmania enriettii	GCA_000410755.2	5663	Microbial eukaryotic parasites	128
+Leishmania guyanensis	GCA_003664525.1	1758073	Microbial eukaryotic parasites	99
+Leishmania infantum JPCM5	GCA_000002875.2	435258	Microbial eukaryotic parasites	96
+Leishmania major strain Friedlin	GCA_000002725.2	347515	Microbial eukaryotic parasites	131
+Leishmania martiniquensis	GCA_017916325.1	1580590	Microbial eukaryotic parasites	126
+Leishmania mexicana MHOM/GT/2001/U1103	GCA_000234665.4	929439	Microbial eukaryotic parasites	103
+Leishmania orientalis	GCA_017916335.1	2249476	Microbial eukaryotic parasites	124
+Leishmania tarentolae	GCA_009731335.1	5689	Microbial eukaryotic parasites	101
+Lepeophtheirus salmonis	GCA_000181255.2	1504303	Metazoa	7
+Leptomonas pyrrhocoris	GCA_001293395.1	157538	Microbial eukaryotic parasites	220
+Loa loa	GCA_000183805.3	7209	Metazoa	8
+Naegleria fowleri	GCA_000499105.1	5763	Microbial eukaryotic parasites	347
+Necator americanus	GCA_000507365.1	51031	Metazoa	22
+Neospora caninum Liverpool	GCA_000208865.2	572307	Microbial eukaryotic parasites	88
+Opisthorchis viverrini	GCA_000715545.1	6198	Metazoa	3
+Perkinsus marinus ATCC 50983	GCA_000006405.1	423536	Microbial eukaryotic parasites	289
+Plasmodium berghei ANKA	GCA_900002375.2	5823	Microbial eukaryotic parasites	46
+Plasmodium chabaudi chabaudi	GCA_900002335.2	31271	Microbial eukaryotic parasites	62
+Plasmodium coatneyi	GCA_000725905.1	208452	Microbial eukaryotic parasites	49
+Plasmodium cynomolgi strain B	GCA_000321355.1	1120755	Microbial eukaryotic parasites	49
+Plasmodium falciparum 3D7	GCA_000002765.3	36329	Microbial eukaryotic parasites	65
+Plasmodium fragile	GCA_000956335.1	5857	Microbial eukaryotic parasites	50
+Plasmodium gallinaceum	GCA_900005855.1	5849	Microbial eukaryotic parasites	60
+Plasmodium inui San Antonio 1	GCA_000524495.1	1237626	Microbial eukaryotic parasites	48
+Plasmodium knowlesi strain H	GCA_000006355.3	5851	Microbial eukaryotic parasites	58
+Plasmodium malariae	GCA_900088575.1	5858	Microbial eukaryotic parasites	4
+Plasmodium ovale wallikeri	GCA_900088485.1	864142	Microbial eukaryotic parasites	58
+Plasmodium reichenowi	GCA_000723685.1	5854	Microbial eukaryotic parasites	52
+Plasmodium relictum	GCA_900005765.1	85471	Microbial eukaryotic parasites	79
+Plasmodium vinckei petteri	GCA_000524515.1	138298	Microbial eukaryotic parasites	47
+Plasmodium vivax	GCA_000002415.2	126793	Microbial eukaryotic parasites	81
+Plasmodium yoelii yoelii	GCA_000003085.2	73239	Microbial eukaryotic parasites	5
+Porcisia hertigi	GCA_017918235.1	2761500	Microbial eukaryotic parasites	144
+Pythium insidiosum	GCA_000764265.1	114742	Microbial eukaryotic parasites	302
+Rodentolepis nana	GCA_900617975.1	102285	Metazoa	0
+Schistosoma haematobium	GCA_000699445.3	174752	Metazoa	2
+Schistosoma japonicum	GCA_000151775.1	6182	Metazoa	3
+Schistosoma mansoni	GCA_000237925.5	212216	Metazoa	5
+Taenia asiatica	GCA_001693035.2	60517	Metazoa	1
+Theileria annulata	GCA_000003225.1	5874	Microbial eukaryotic parasites	40
+Theileria equi strain WA	GCA_000342415.1	1537102	Microbial eukaryotic parasites	52
+Theileria orientalis strain Shintoku	GCA_000740895.1	869250	Microbial eukaryotic parasites	39
+Theileria parva strain Muguga	GCA_000165365.1	333668	Microbial eukaryotic parasites	53
+Toxocara canis	GCA_000803305.1	6265	Metazoa	32
+Toxoplasma gondii ME49	GCA_000006565.2	508771	Microbial eukaryotic parasites	66
+Trichinella britovi	GCA_001447585.1	45882	Metazoa	7
+Trichinella murrelli	GCA_001447425.1	144512	Metazoa	6
+Trichinella nelsoni	GCA_001447455.1	6336	Metazoa	10
+Trichinella papuae	GCA_001447755.1	268474	Metazoa	12
+Trichinella patagoniensis	GCA_001447655.1	990121	Metazoa	5
+Trichinella pseudospiralis	GCA_001447445.1	6337	Metazoa	9
+Trichinella spiralis	GCA_000181795.3	6334	Metazoa	7
+Trichinella zimbabwensis	GCA_001447665.1	268475	Metazoa	8
+Trichomonas vaginalis G3	GCA_000002825.3	412133	Microbial eukaryotic parasites	814
+Trichuris trichiura	GCA_000613005.1	36087	Metazoa	14
+Tritrichomonas foetus	GCA_001839685.1	1144522	Microbial eukaryotic parasites	498
+Trypanosoma brucei brucei TREU927	GCA_000002445.1	185431	Microbial eukaryotic parasites	71
+Trypanosoma cruzi	GCA_000188675.2	353153	Microbial eukaryotic parasites	17
+Trypanosoma grayi	GCA_000691245.1	71804	Microbial eukaryotic parasites	48
+Trypanosoma rangeli SC58	GCA_000492115.1	429131	Microbial eukaryotic parasites	0
+Trypanosoma theileri	GCA_002087225.1	67003	Microbial eukaryotic parasites	136
+Varroa destructor	GCA_000181155.2	109461	Metazoa	9
+Wuchereria bancrofti	GCA_000180755.1	6293	Metazoa	1

@@ -1,0 +1,4 @@
+mode	threshold	linked_genes	promastigote_all3	amastigote_all3	all6	both_stage_any	both_stage_2of3	both_stage_means	minimum_signal
+primary_reverse_gene	1	27	27	27	27	27	27	27	25.38965754332719
+primary_reverse_gene	5	27	27	27	27	27	27	27	25.38965754332719
+primary_reverse_gene	10	27	27	27	27	27	27	27	25.38965754332719

@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "species": 48,
+  "matched_species_family_observations": 1940,
+  "categories_verified": 4,
+  "deletion_comparisons_verified": 8,
+  "max_absolute_error": 1.7763568394002505e-15,
+  "python": "3.9.18",
+  "numpy": "1.26.2",
+  "pandas": "1.5.3",
+  "matplotlib": "3.9.4",
+  "interpretation": "Annotation contributions; not enzyme activity, pathway flux, or gene essentiality."
+}

@@ -1,0 +1,97 @@
+panel	unit	scope	n	age_values	rho	naive_p_not_phylogenetic	ci025	ci975	valid_bootstrap_replicates
+submitted_S5_S6_including_zero	record	all	6423	78	-0.3367780326328825	4.164289850666604e-170			
+submitted_S5_S6_positive_age	record	all	3112	77	-0.3653073117611869	7.269374918128314e-99			
+final_including_zero	record	all	6423	79	-0.3365658188767585	6.99068474932316e-170			
+all_Ks	record	all	3109	78	-0.3663633013938497	2.248752715076637e-99			
+all_Ks	record	Amoebozoa	336	10	-0.5086783387857937				
+all_Ks	record	leave_out_Amoebozoa	2773	76	-0.3462178325742903				
+all_Ks	record	Apicomplexa	981	36	-0.2962717079882308				
+all_Ks	record	leave_out_Apicomplexa	2128	52	-0.3995893241341593				
+all_Ks	record	Euglenozoa	878	19	-0.3508455466069382				
+all_Ks	record	leave_out_Euglenozoa	2231	66	-0.416900531578327				
+all_Ks	record	Metamonada	255	6	-0.3213273338600819				
+all_Ks	record	leave_out_Metamonada	2854	76	-0.3590844903447544				
+all_Ks	record	Metazoa	195	22	-0.2912512613671333				
+all_Ks	record	leave_out_Metazoa	2914	60	-0.3697010170006192				
+all_Ks	record	Perkinsidae	30	8	-0.2483115772479466				
+all_Ks	record	leave_out_Perkinsidae	3079	78	-0.3617869240193113				
+all_Ks	record	Stramenopiles	413	10	-0.4874427991931349				
+all_Ks	record	leave_out_Stramenopiles	2696	76	-0.3409301193557321				
+all_Ks	record	other_or_unresolved	21	3	-0.1025645188136741				
+all_Ks	record	leave_out_other_or_unresolved	3088	78	-0.3589803505587749				
+all_Ks	strict_species_OG_medians	all	1974	95	-0.3348384422807442				
+all_Ks	strict_global_OG_medians	all	632	112	-0.3561562232928641		-0.4336371466825007	-0.2830829154170259	1000
+all_Ks	strict_global_OG_medians	Amoebozoa	149	11	-0.3888490960163301				
+all_Ks	strict_global_OG_medians	Apicomplexa	184	52	-0.3400671179099369				
+all_Ks	strict_global_OG_medians	Euglenozoa	174	17	-0.3694576647779588				
+all_Ks	strict_global_OG_medians	Metamonada	126	8	-0.3906225903477962				
+all_Ks	strict_global_OG_medians	Metazoa	47	24	-0.432800091919322				
+all_Ks	strict_global_OG_medians	Perkinsidae	23	8	-0.071590926464702				
+all_Ks	strict_global_OG_medians	Stramenopiles	81	9	-0.3920747487277181				
+all_Ks	strict_global_OG_medians	leave_out_Amoebozoa	536	99	-0.3869344913738753				
+all_Ks	strict_global_OG_medians	leave_out_Apicomplexa	497	68	-0.3803459657105862				
+all_Ks	strict_global_OG_medians	leave_out_Euglenozoa	516	104	-0.4018820101094272				
+all_Ks	strict_global_OG_medians	leave_out_Metamonada	551	108	-0.3354331496826268				
+all_Ks	strict_global_OG_medians	leave_out_Metazoa	595	93	-0.3497021020776903				
+all_Ks	strict_global_OG_medians	leave_out_Perkinsidae	624	112	-0.3507864453234221				
+all_Ks	strict_global_OG_medians	leave_out_Stramenopiles	579	104	-0.3357842775887627				
+Ks_lt3	record	all	1814	72	-0.1992655300262007	1.060891909057274e-17			
+Ks_lt3	record	Amoebozoa	185	8	-0.2435041495517259				
+Ks_lt3	record	leave_out_Amoebozoa	1629	68	-0.180906725886124				
+Ks_lt3	record	Apicomplexa	595	31	-0.2820324322475405				
+Ks_lt3	record	leave_out_Apicomplexa	1219	48	-0.1828992738007585				
+Ks_lt3	record	Euglenozoa	537	16	-0.1813339895942141				
+Ks_lt3	record	leave_out_Euglenozoa	1277	58	-0.287644360304908				
+Ks_lt3	record	Metamonada	129	3	-0.0028275164028082				
+Ks_lt3	record	leave_out_Metamonada	1685	71	-0.2014409849856139				
+Ks_lt3	record	Metazoa	153	20	-0.3335671977572302				
+Ks_lt3	record	leave_out_Metazoa	1661	54	-0.1921603830443428				
+Ks_lt3	record	Perkinsidae	11	5	0.0953462589245592				
+Ks_lt3	record	leave_out_Perkinsidae	1803	72	-0.1954196685580631				
+Ks_lt3	record	Stramenopiles	200	8	-0.2103688038765682				
+Ks_lt3	record	leave_out_Stramenopiles	1614	70	-0.1942561745255215				
+Ks_lt3	record	leave_out_other_or_unresolved	1810	72	-0.1954213387794313				
+Ks_lt3	strict_species_OG_medians	all	1204	78	-0.1926790597159425				
+Ks_lt3	strict_global_OG_medians	all	484	101	-0.2403708662846928		-0.3256177421839222	-0.1511468815113444	1000
+Ks_lt3	strict_global_OG_medians	Amoebozoa	102	9	-0.176381318455078				
+Ks_lt3	strict_global_OG_medians	Apicomplexa	149	48	-0.3330182003180956				
+Ks_lt3	strict_global_OG_medians	Euglenozoa	142	16	-0.2017905922979276				
+Ks_lt3	strict_global_OG_medians	Metamonada	69	5	0.0733267162440235				
+Ks_lt3	strict_global_OG_medians	Metazoa	42	19	-0.4062173820510465				
+Ks_lt3	strict_global_OG_medians	Perkinsidae	10	5	0.2154013750142214				
+Ks_lt3	strict_global_OG_medians	Stramenopiles	42	5	-0.1539240396030637				
+Ks_lt3	strict_global_OG_medians	leave_out_Amoebozoa	407	88	-0.2233690704228414				
+Ks_lt3	strict_global_OG_medians	leave_out_Apicomplexa	369	56	-0.2187351452114426				
+Ks_lt3	strict_global_OG_medians	leave_out_Euglenozoa	374	89	-0.2926931642791856				
+Ks_lt3	strict_global_OG_medians	leave_out_Metamonada	432	96	-0.2428728706096293				
+Ks_lt3	strict_global_OG_medians	leave_out_Metazoa	449	84	-0.2282429076892695				
+Ks_lt3	strict_global_OG_medians	leave_out_Perkinsidae	481	99	-0.2398006713204882				
+Ks_lt3	strict_global_OG_medians	leave_out_Stramenopiles	453	98	-0.2393742110396906				
+Ks_lt2	record	all	188	41	-0.1061486503878825	0.1471060869653925			
+Ks_lt2	record	Amoebozoa	23	3	-0.3436548977548009				
+Ks_lt2	record	leave_out_Amoebozoa	165	38	-0.0703146287261693				
+Ks_lt2	record	Apicomplexa	80	16	-0.0868566897114429				
+Ks_lt2	record	leave_out_Apicomplexa	108	25	-0.1477897214448629				
+Ks_lt2	record	Euglenozoa	47	7	-0.0517158612052694				
+Ks_lt2	record	leave_out_Euglenozoa	141	34	-0.1481788768049837				
+Ks_lt2	record	Metamonada	14	2	0.1943250826893887				
+Ks_lt2	record	leave_out_Metamonada	174	39	-0.1136316629208341				
+Ks_lt2	record	Metazoa	15	11	-0.0842299317210868				
+Ks_lt2	record	leave_out_Metazoa	173	30	-0.0996051640377322				
+Ks_lt2	record	leave_out_Stramenopiles	179	39	-0.0874030674360689				
+Ks_lt2	strict_species_OG_medians	all	143	37	-0.1117637350555969				
+Ks_lt2	strict_global_OG_medians	all	97	37	-0.1314525212490902		-0.3492510842693888	0.0711491736206165	1000
+Ks_lt2	strict_global_OG_medians	Amoebozoa	17	3	-0.1225245073524508				
+Ks_lt2	strict_global_OG_medians	Apicomplexa	39	16	0.0372467739923551				
+Ks_lt2	strict_global_OG_medians	Euglenozoa	21	9	0.2026580933250294				
+Ks_lt2	strict_global_OG_medians	Metamonada	10	2	0.2611164839335467				
+Ks_lt2	strict_global_OG_medians	Metazoa	10	7	-0.1651445647689541				
+Ks_lt2	strict_global_OG_medians	leave_out_Amoebozoa	82	35	0.0117748568291389				
+Ks_lt2	strict_global_OG_medians	leave_out_Apicomplexa	60	23	-0.2284429047876502				
+Ks_lt2	strict_global_OG_medians	leave_out_Euglenozoa	78	29	-0.1796702637077663				
+Ks_lt2	strict_global_OG_medians	leave_out_Metamonada	87	35	-0.1268629171168147				
+Ks_lt2	strict_global_OG_medians	leave_out_Metazoa	87	30	-0.1169738609590276				
+Ks_lt2	strict_global_OG_medians	leave_out_Stramenopiles	94	35	-0.1179039017963735				
+Ks_lt1	record	all	6	5	-0.4638168285219587	0.3541642984362307			
+Ks_lt1	strict_species_OG_medians	all	5	4	-0.0512989176042577				
+Ks_lt1	strict_global_OG_medians	all	5	4	-0.0512989176042577				

@@ -1,0 +1,17 @@
+scenario	category	deletion	retained_species	retained_clades	baseline_same_species_pp	remaining_effect_pp	baseline_all_species_pp	comparable
+original47	E	remove_top5_locus_OGs	47	4	11.42335691228539	11.37725128771925	11.42335691228539	True
+original47	E	remove_top5_category_positive_OGs	42	3	9.472595541166845	9.223200003465038	11.42335691228539	True
+original47	F	remove_top5_locus_OGs	47	4	6.356194815771205	5.40689629112853	6.356194815771205	True
+original47	F	remove_top5_category_positive_OGs	46	4	5.820683452134841	3.735933457627256	6.356194815771205	True
+original47	G	remove_top5_locus_OGs	47	4	5.634418964939448	5.732855442785311	5.634418964939448	True
+original47	G	remove_top5_category_positive_OGs	47	4	5.634418964939448	3.528033450791336	5.634418964939448	True
+original47	H	remove_top5_locus_OGs	47	4	4.638428966069953	4.848264139594366	4.638428966069953	True
+original47	H	remove_top5_category_positive_OGs	46	4	3.850076693342681	1.212644292804173	4.638428966069953	True
+augmented_same_reference	E	remove_top5_locus_OGs	48	4	11.38535671803519	11.33925109346906	11.3853567180352	True
+augmented_same_reference	E	remove_top5_category_positive_OGs	42	3	9.472595541166845	8.72829111564657	11.3853567180352	True
+augmented_same_reference	F	remove_top5_locus_OGs	48	4	6.46699027031666	5.517691745673985	6.46699027031666	True
+augmented_same_reference	F	remove_top5_category_positive_OGs	47	4	6.06074027031666	3.392243791016212	6.46699027031666	True
+augmented_same_reference	G	remove_top5_locus_OGs	48	4	5.580087185607669	5.678523663453531	5.580087185607669	True
+augmented_same_reference	G	remove_top5_category_positive_OGs	48	4	5.580087185607669	3.630267328025213	5.580087185607669	True
+augmented_same_reference	H	remove_top5_locus_OGs	48	4	4.330663814554802	4.540498988079214	4.330663814554801	True
+augmented_same_reference	H	remove_top5_category_positive_OGs	47	4	3.638428966069954	1.228269292804173	4.330663814554801	True

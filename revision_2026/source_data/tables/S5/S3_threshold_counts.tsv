@@ -1,0 +1,16 @@
+species	threshold	linked	classifiable	above	at_or_below	unresolved	above_fraction_all_linked	above_fraction_classifiable
+Ascaris suum	1	21	8	8	0	13	0.380952380952381	1
+Brugia malayi	1	10	6	5	1	4	0.5	0.833333333333333
+Cryptosporidium parvum Iowa II	1	17	17	17	0	0	1	1
+Schistosoma mansoni	1	5	5	3	2	0	0.6	0.6
+Trichomonas vaginalis G3	1	751	695	520	175	56	0.692410119840213	0.748201438848921
+Ascaris suum	5	21	8	7	1	13	0.333333333333333	0.875
+Brugia malayi	5	10	6	5	1	4	0.5	0.833333333333333
+Cryptosporidium parvum Iowa II	5	17	17	17	0	0	1	1
+Schistosoma mansoni	5	5	5	3	2	0	0.6	0.6
+Trichomonas vaginalis G3	5	751	695	338	357	56	0.450066577896138	0.486330935251799
+Ascaris suum	10	21	8	7	1	13	0.333333333333333	0.875
+Brugia malayi	10	10	6	4	2	4	0.4	0.666666666666667
+Cryptosporidium parvum Iowa II	10	17	17	17	0	0	1	1
+Schistosoma mansoni	10	5	5	3	2	0	0.6	0.6
+Trichomonas vaginalis G3	10	751	695	256	439	56	0.340878828229028	0.368345323741007

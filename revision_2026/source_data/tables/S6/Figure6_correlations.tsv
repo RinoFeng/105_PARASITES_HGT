@@ -1,0 +1,5 @@
+panel	scope	n	rho	nominal_spearman_p	interpretation
+Figure6B	PCR_profile_display	3002	-0.3247503853975047	1.117311602415744e-74	Descriptive correlation; no independence or phylogenetic correction implied
+Figure6B	exact_catalogue_intersection	2998	-0.325878490163544	4.071434310979044e-75	Descriptive correlation; no independence or phylogenetic correction implied
+Figure6C	PCR_profile_display	4845	0.1213592227905583	2.320680554083152e-17	Descriptive correlation; no independence or phylogenetic correction implied
+Figure6C	exact_catalogue_intersection	4841	0.121416280672641	2.310499220060529e-17	Descriptive correlation; no independence or phylogenetic correction implied

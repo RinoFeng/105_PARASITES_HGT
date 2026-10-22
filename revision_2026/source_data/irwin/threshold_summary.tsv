@@ -1,0 +1,13 @@
+scope	score_ge2	threshold	identity_pct	min_bilateral_coverage	literature_proteins	catalogue_records	literature_denominator
+same_species	False	exact_full_aa	100	1	52	52	1423
+same_species	False	95id_90cov	95	0.9	53	53	1423
+same_species	False	90id_80cov	90	0.8	55	54	1423
+same_species	False	80id_80cov	80	0.8	55	54	1423
+same_species	False	50id_70cov	50	0.7	63	57	1423
+same_species	False	30id_50cov	30	0.5	92	71	1423
+same_species	True	exact_full_aa	100	1	44	44	1286
+same_species	True	95id_90cov	95	0.9	45	45	1286
+same_species	True	90id_80cov	90	0.8	46	46	1286
+same_species	True	80id_80cov	80	0.8	46	46	1286
+same_species	True	50id_70cov	50	0.7	52	49	1286
+same_species	True	30id_50cov	30	0.5	78	63	1286
